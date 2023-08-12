@@ -1,0 +1,9 @@
+[
+  {
+    "name": "at_night",
+    "conditions": {
+        "mintime": 13702,
+        "maxtime": 22812
+    }
+  }
+]
